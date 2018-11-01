@@ -7,4 +7,5 @@ L'injection des dépandance va pouvoir permettre de réutiliser ces "modules" da
 - Le design pattern est une manière d'implémenter son code en fonction du contexte ou projet.
 Cela va permettre au développeurs de coder clairement et de manière structuré.
 
-- Le temporal coupling
+- Le temporal coupling coniste à faire appel à des éléments d'une classe dans un ordre précis afin qu'elles communiquent éfficacement. Mais cette méthodes présente souvent des effets négatif dans la programmation.
+
